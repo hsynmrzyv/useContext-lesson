@@ -1,0 +1,21 @@
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #292e5a;
+  background-color: #f3f4ff;
+}
+
+.generator {
+  width: 350px;
+  padding: 30px 20px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.generator__title,
+.password {
+  text-align: center;
+  margin-bottom: 20px;
+}

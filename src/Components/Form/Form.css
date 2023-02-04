@@ -1,0 +1,30 @@
+.generator__form-control {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.generator__form-control input {
+  accent-color: #b2abff;
+}
+
+.generator__form-actions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.generator__form-actions .btn {
+  padding: 8px 12px;
+  color: #292e5a;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.generator__form-actions .generate-btn {
+  background: linear-gradient(to right, #a0c0ff, #b2abff);
+}
+
+.generator__form-actions .copy-btn {
+  background: linear-gradient(to right, #62f498, #77f4eb);
+}
